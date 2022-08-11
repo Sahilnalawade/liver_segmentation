@@ -1,0 +1,7 @@
+# ignore file .DS_Store
+.DS_Store
+layers.py
+tiramisu.py
+
+# ignore ALL files in directory named __pycache__
+__pycache__/
