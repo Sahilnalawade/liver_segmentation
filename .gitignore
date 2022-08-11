@@ -5,3 +5,4 @@ tiramisu.py
 
 # ignore ALL files in directory named __pycache__
 __pycache__/
+model/
